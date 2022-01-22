@@ -170,16 +170,20 @@ Continued on JavaScript calculator collaboration, successfully finished includin
 
 ---
 
-### Day 19: January 22th, 2022
+### Day 20: January 22th, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Today's concept: Promises. Finished API project using fetch() with promises to make 150 network requests at once. Signed up to Leetcode and aiming to solve one problem daily. Practised git commands, pushing updated files to Github. Read about clean code principles. 
 
-**Thoughts**: Starting to build a strong habit coding regularly. Focus of these study times could be improved as skipping between topics a lot trying to cover all JS basics before React course at starts 1st of Feb.
+**Thoughts**: Productive day! Important to take breaks and come back to a problems.
+ Starting to build a strong habit coding regularly. Focus of these study times could be improved as skipping between topics a lot trying to cover all JS basics before React course at starts 1st of Feb.
               Realising I cannot possibly cover it all, will refocus on React from tomorrow on and continue JavaScript learning on the side (about an hour a day, plus 1 daily coding exercise on Leetcode, which falls under interview prep as well).
               Having tried to built my own program at work and having gone through debugging, realising that is the way to go to learn. Plus building simple (paper scissors rock game) throughout practices where I understand each layer of code
               instead of white-knuckling through a project like the snake game without being able to grasp level 33 of the code, is the much better approach. Live and learn.
               Would also like to do something like 100devs, but no capacity with self learning from various ressources, book, own projects, mentoring and the course about to start. 
               Finally got great feedback from three separate friends about my capabilites and love for learning yesterday, which further motivates me. 
 
-**Link to work**: []()
+**Link to work**: [Pokedex Api Project](https://criminy-git.github.io/api-project-pokedex/)
+
+---
+
 
