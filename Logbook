@@ -236,7 +236,7 @@ Attended intro to my General Assembly course starting next week!!
 
 ---
 
-### Day 26: January 28th, 2022
+### Day 25: January 28th, 2022
 
 **Today's Progress**: Only repeated one exercise today (chessboard) but nailed it, just knew what to do and how to
 build the code block logically without memorising any code etc, it was a great moment.
@@ -248,7 +248,7 @@ reusability of code, could produce intentional variations of the outcome as well
 
 ---
 
-### Day 27: January 29th, 2022
+### Day 26: January 29th, 2022
 
 **Today's Progress**: Started my first React project by myself with newfound working method of building things through trial and error from scratch, 
 following a tutorial but building it myself through create-react-app. Understood a lot more about import/export, what to name components and the import syntax,
@@ -259,7 +259,7 @@ Tying in my knowledge of git and command line and npm with all this too.
 
 ---
 
-###:Day 28: January 31st, 2022
+###:Day 27: January 31st, 2022
 
 ***Today's progress***: Started building mental model to understand how bundlers like webpack and compilers like babel benefit performance of an application.
 Repeated three exercises from Eloquent JavaScript Chapter 2, able to debug and solve all threee now (seemed like an impossible mountain two weeks ago).
@@ -282,7 +282,7 @@ Also: Coded 28/31 days in January! Success in building a habit 🎉
 ---
 
 
-### Day 29: February 1st, 2022
+### Day 28: February 1st, 2022
 
 **Today's Progress**: Started great React overview tutorial on LinkedIn.
 First React live class at GA, met classmates, went over coursework, course structure
@@ -297,9 +297,17 @@ and learned difference between functional and class components as well as npx vs
 **Today's Progress**: Had to take a break tonight, earlier today attended Canva live interview on LinkedIn,
 progressed in UI module and getting hired advice module.
 
-**Thoughts**: 
+---
 
-**Link to work**: []()
+### Day 31: February 3rd, 2022
+
+**Today's Progress**: Second React class, thrown into the deep end! Sink or swim time.
+Learning about passing props through components and functional and class components. Lots of teamwork.
+Homework is writing first React App with components.
+
+**Thoughts**: Felt honestly overwhelmed as confused due to constant switching between class and functional
+components. Focused on working out how to push homework into remote repository, then going to go over
+class components again today piece by piece. Break problem into smaller pieces.
 
 ---
 
