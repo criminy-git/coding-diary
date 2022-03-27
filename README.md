@@ -358,7 +358,6 @@ components to functional components, immutable data types. Practiced by creating
 
 **Thoughts**: Going to put some work into the styling and get some content happening next.
 
-
 ---
 
 ### Day 38: March 27th, 2022
@@ -367,6 +366,16 @@ components to functional components, immutable data types. Practiced by creating
 
 **Thoughts**: If a step seems to hard, go back to the next pervious easier step and then have another go at it. Don't underestimate the power of wireframing, suddenly a much clearer concept of both the website and the scope of work being new to project work.
 
-**Link to work**: 
+---
+
+### Day : March th, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: []()
+
+---
 
 ---
