@@ -399,7 +399,7 @@ components to functional components, immutable data types. Practiced by creating
 
 ---
 
-### Day 43: April 43th, 2022
+### Day 43: April 25th, 2022
 
 **Today's Progress**: Continued on Frontend Career Path, started building image carousel in vanilla Javascript. 
 
