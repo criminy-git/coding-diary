@@ -419,13 +419,13 @@ components to functional components, immutable data types. Practiced by creating
 
 ---
 
-### Day : April th, 2022
+### Day 45: April 30th, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Worked through Javascript dicegame with notes. Updated Twitter profile. Finished moduele 4!
 
-**Thoughts**: 
+**Thoughts**: Onto Module 5!
 
-**Link to work**: []()
+**Link to work**: [Click here to view the finished project](https://j-pohl.github.io/dicegame/)
 
 ---
 
